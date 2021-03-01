@@ -18,7 +18,10 @@ The application contains elements of diagnostics supervised “production proces
 * The program randomly generates a failure. If the dispatcher does not follow the given instructions privided to fix the failure then the warehouse will burn and the dispatcher will be logged out of the system.
 
 ## Overview
+* Login window:
 ![Login](./images/login.png)
+
+* Production line simulator:
 ![Game overview](./images/production.png)
 
 ## Technologies
